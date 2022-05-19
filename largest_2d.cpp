@@ -4,8 +4,8 @@ using namespace std;
  
 int main()
 {
-    int a[5][5],largest=1,n,m,i,j;
-    cout<<"Enter no of rows and columns(max 5):";
+    int a[6][6],largest=1,n,m,i,j;
+    cout<<"Enter no of rows and columns(max 6):";
     cin>>m>>n;
     cout<<"Enter the array:\n";
  
